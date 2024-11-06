@@ -19,7 +19,7 @@ def create_default_repo()->Repository:
      return Repository(
           host = "localhost",
           user = "root",
-          password = "Tiger@123",
+          password = "...",
           database = "online_shopping_cart_test"
      )     
 
